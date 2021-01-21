@@ -21,7 +21,7 @@ console.log (firstResult, secondResult, thirdResult);
 
 
 
-//part 2 budgetCalculator
+//part 2 (budgetCalculator)
 
 function budgetCalculator(watch,phone,leptop) {
          
@@ -42,7 +42,7 @@ console.log  (result)
 
 
 
-// part 3  hotelCost
+// part 3  (hotelCost)
 
 
  
@@ -76,7 +76,7 @@ console.log (cost)
 
 
 
-// part 4 megaFriend
+// part 4 (megaFriend)
 
 
 var friendList = ["Murad", "joy", "mahamudul", "hillol", "jamshed"];
