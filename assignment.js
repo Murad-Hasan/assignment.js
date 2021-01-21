@@ -92,8 +92,8 @@ function megaFriend(names) {
   return leargestName;
 }
 
-
 var check = (megaFriend(friendList));
 console.log(check);
+
 
 
