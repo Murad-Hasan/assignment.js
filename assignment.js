@@ -29,12 +29,12 @@ function budgetCalculator(watch,phone,leptop) {
     var phonePrice = phone * 100 ;
     var leptopPrice = leptop * 500 ;
 
-   var totalBudget = watchPrice + phonePrice + leptopPrice ;
+   var sum = watchPrice + phonePrice + leptopPrice ;
 
-    return totalBudget;
+    return sum;
 }
 
-var result = budgetCalculator(20,24,26)
+var result = budgetCalculator(20,25,10)
 console.log  (result)
 
 
